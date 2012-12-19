@@ -1,3 +1,4 @@
 <jboss-web>
     <context-root>ROOT</context-root>
+    <security-domain>facebook</security-domain>
 </jboss-web>

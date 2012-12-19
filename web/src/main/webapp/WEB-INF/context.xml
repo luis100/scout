@@ -1,0 +1,6 @@
+<Context>
+	<Valve className="org.picketlink.social.facebook.FacebookAuthenticator"
+		returnURL="http://localhost:8080/web/dashboard" scope="user"
+		clientID="184122571725882" clientSecret="d71ef765900e4cde683ac16b18e05b17"
+		roleString="" />
+</Context>
